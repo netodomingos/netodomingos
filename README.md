@@ -10,7 +10,7 @@ About me 🧐:
 - 🔭 I’m currently working on **Thorpe Innovation** 🚀
 - 🌱 I’m currently learning **TypeScript with ReactJs** 📃
 - 💬 Ask me about **everything** 🤩
-- ⚡ Fun fact: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
+- ⚡ Fun fact about me: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
 
 Find me around the web 🌎:
 
