@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, my name is Neto Domingos, wellcome to my Profile. 👋
 
-<!--
-**netodomingos/netodomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49910898/107429470-b7a3bd00-6b02-11eb-8a8a-71b979c17be8.png"  alt="Unform" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me 🧐:
+
+- 🔭 I’m currently working on **Thorpe Innovation** 🚀
+- 🌱 I’m currently learning **TypeScript with ReactJs** 📃
+- 💬 Ask me about **everything** 🤩
+- ⚡ Fun fact: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
+
+Find me around the web 🌎:
+
+- [Linkedln](https://www.linkedin.com/in/netodomingos/)
+- [Instagram](https://www.instagram.com/neto_domingoss/)
