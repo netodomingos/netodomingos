@@ -7,8 +7,8 @@
 
 About me 🧐:
 
-- 🔭 I’m currently working on **Thorpe Innovation** 🚀
-- 🌱 I’m currently learning **TypeScript with ReactJs** 📃
+- 🔭 I’m currently working on **Avanade** 🚀
+- 🌱 I’m currently playing **Angular with React** 📃
 - 💬 Ask me about **everything** 🤩
 - ⚡ Fun fact about me: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
 
