@@ -8,7 +8,7 @@
 About me 🧐:
 
 - 🔭 I’m currently working on **Avanade** 🚀
-- 🌱 I’m currently playing **Angular and React** 📃
+- 🌱 I’m currently playing with **Angular and React** 📃
 - 💬 Ask me about **everything** 🤩
 - ⚡ Fun fact about me: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
 
