@@ -8,7 +8,7 @@
 About me 🧐:
 
 - 🔭 I’m currently working on **Locus Custom Software** 🚀
-- 🌱 I’m currently playing with **Angular and React** 📃
+- 🌱 I’m currently playing with **Angular, React & React Native** 📃
 - 💬 Ask me about **everything** 🤩
 - ⚡ Fun fact about me: *Sun of musicians, father of 4 dogs and bad volleyball player 🤘*
 
