@@ -13,4 +13,3 @@ About me 🧐:
 Find me around the web 🌎:
 
 - [Linkedln](https://www.linkedin.com/in/netodomingos/)
-- [Instagram](https://www.instagram.com/neto_domingoss/)
