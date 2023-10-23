@@ -7,7 +7,7 @@
 
 About me 🧐:
 
-- 🔭 I’m currently working on **Locus Custom Software** 🚀
+- 🔭 I’m currently working on **NTT DATA** 🚀
 - 💬 Ask me about **everything** 🤩
 
 Find me around the web 🌎:
