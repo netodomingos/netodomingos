@@ -9,6 +9,7 @@ About me 🧐:
 
 - 🔭 I’m currently working on **NTT DATA** 🚀
 - 💬 Ask me about **everything** 🤩
+- 🧐 Learning **Dart** 🥳 
 
 Find me around the web 🌎:
 
